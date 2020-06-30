@@ -1,6 +1,6 @@
-[submodule "child"]
-	path = child
-	url = https://github.com/skyline-123/child.git
+[submodule "common/child2"]
+	path = common/child2
+	url = https://github.com/skyline-123/child2.git
 [submodule "common/child"]
 	path = common/child
 	url = https://github.com/skyline-123/child.git
