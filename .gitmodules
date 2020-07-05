@@ -2,7 +2,7 @@
 	path = common/child2
 	url = git@github.com:skyline-123/child2.git
 [submodule "common/child3"]
-	path = common/child2
+	path = common/child3
 	url = git@github.com:skyline-123/child3.git
 [submodule "common/child"]
 	path = common/child
